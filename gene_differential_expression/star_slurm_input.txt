@@ -1,0 +1,10 @@
+     1	/mnt/home/plachetzki/kcd1021/new_hag/raw_reads/M_glutinosa/Mgl1_B1/SRR22512555
+     2	/mnt/home/plachetzki/kcd1021/new_hag/raw_reads/M_glutinosa/Mgl1_B2/SRR22512554
+     3	/mnt/home/plachetzki/kcd1021/new_hag/raw_reads/M_glutinosa/Mgl1_B3/SRR22512553
+     4	/mnt/home/plachetzki/kcd1021/new_hag/raw_reads/M_glutinosa/Mgl1_B4/SRR22512552
+     5	/mnt/home/plachetzki/kcd1021/new_hag/raw_reads/M_glutinosa/Mgl1_SG1/SRR22512547
+     6	/mnt/home/plachetzki/kcd1021/new_hag/raw_reads/M_glutinosa/Mgl1_SG2/SRR22512546
+     7	/mnt/home/plachetzki/kcd1021/new_hag/raw_reads/M_glutinosa/Mgl1_SG3/SRR22512545
+     8	/mnt/home/plachetzki/kcd1021/new_hag/raw_reads/M_glutinosa/Mgl1_SK1/SRR22512550
+     9	/mnt/home/plachetzki/kcd1021/new_hag/raw_reads/M_glutinosa/Mgl1_SK2/SRR22512549
+    10	/mnt/home/plachetzki/kcd1021/new_hag/raw_reads/M_glutinosa/Mgl1_SK3/SRR22512548
